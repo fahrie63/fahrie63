@@ -31,6 +31,6 @@
 <body>
     <h1>Romantic Gift</h1>
     <p>Surprise your loved one with a special romantic gift. Every moment shared is a treasure.</p>
-    <img class="gift-image" src="your-gift-image-url.jpg" alt="Romantic Gift">
+    <img class="gift-image" src="https://giphy.com/gifs/love-black-and-white-kiss-gMA8trxqSKjGo" alt="Romantic Gift">
 </body>
 </html>
