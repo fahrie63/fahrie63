@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Love Express</title>
+    <title>Romantic Gift</title>
     <style>
         body {
             text-align: center;
             padding: 50px;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f8f8f8;
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            background-color: #f4f4f4;
         }
         h1 {
             color: #e74c3c;
@@ -17,17 +17,20 @@
         p {
             color: #333;
             font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 30px;
         }
-        img {
-            width: 300px;
-            border-radius: 50%;
+        .gift-image {
+            width: 100%;
+            max-width: 600px;
+            border-radius: 10px;
             margin-top: 20px;
         }
     </style>
 </head>
 <body>
-    <h1>Love Express</h1>
-    <p>Your love makes every moment special.</p>
-    <img src="https://images.app.goo.gl/4bPgHED8F1rDUffP8" alt="Couple Image">
+    <h1>Romantic Gift</h1>
+    <p>Surprise your loved one with a special romantic gift. Every moment shared is a treasure.</p>
+    <img class="gift-image" src="your-gift-image-url.jpg" alt="Romantic Gift">
 </body>
 </html>
