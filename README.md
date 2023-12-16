@@ -28,6 +28,6 @@
 <body>
     <h1>Love Express</h1>
     <p>Your love makes every moment special.</p>
-    <img src="your-image-url.jpg" alt="Couple Image">
+    <img src="https://images.app.goo.gl/4bPgHED8F1rDUffP8" alt="Couple Image">
 </body>
 </html>
